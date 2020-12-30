@@ -1,0 +1,6 @@
+.sidebar .sidebar-wrapper{
+  overflow:hidden !important;
+}
+.content {
+  min-height: calc(100vh - 162px);
+}
