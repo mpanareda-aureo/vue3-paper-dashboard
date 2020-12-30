@@ -1,11 +1,9 @@
-# [Vue3 Paper Dashboard](https://mpanareda-aureo.github.io/vue3-paper-dashboard/)
+# [Vue3 Paper Dashboard](https://github.com/mpanareda-aureo/vue3-paper-dashboard)
 
 > Admin dashboard based on paper dashboard UI template
 
 This project is a vue version of [Paper-dashboard](https://www.creative-tim.com/product/paper-dashboard)
 designed for Vue 3. This project uses Vite and Typescript
-
-Check the [Live Demo here](https://mpanareda-aureo.github.io/vue3-paper-dashboard).
 
 ## Build Setup
 
